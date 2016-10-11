@@ -1,0 +1,2201 @@
+Application...
+  Start Date      : 10/08/2016 11:19:09
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/08/2016 11:23:48
+  Address: 0047E08F
+  Module : Project1.exe
+  Type   : EPySyntaxError
+  Message: exceptions.SyntaxError: invalid syntax (line 4, offset 6): 'for in in range (0, leng(a)):'.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 3118 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|0047E08F|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5412|
+|0047DB74|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5365|
+|00480822|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6391|
+|004807C0|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047D4E2|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5190|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|0048615A|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |83  |
+|7756DF85|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|7756E683|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|763211E9|user32.dll  |                |             |PtInRect                   |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76319679|user32.dll  |                |             |SendMessageW               |    |
+|775A3BF0|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|76327945|user32.dll  |                |             |CallWindowProcA            |    |
+|7632792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76322ABC|user32.dll  |                |             |GetCapture                 |    |
+|76322AAC|user32.dll  |                |             |GetCapture                 |    |
+|76317BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|76317BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|00486893|Project1.exe|Project1.dpr    |             |                           |20  |
+|76B033C8|kernel32.dll|                |             |GetEnvironmentVariableA    |    |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/08/2016 11:19:09
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/08/2016 11:24:43
+  Address: 0047E08F
+  Module : Project1.exe
+  Type   : EPySyntaxError
+  Message: exceptions.SyntaxError: invalid syntax (line 4, offset 6): 'for in in range (0, leng(a)):'.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 3106 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|0047E08F|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5412|
+|0047DB74|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5365|
+|00480822|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6391|
+|004807C0|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047D4E2|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5190|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|0048615A|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |83  |
+|7756DF85|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|7756E683|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|763211E9|user32.dll  |                |             |PtInRect                   |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76319679|user32.dll  |                |             |SendMessageW               |    |
+|775A3BF0|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|76327945|user32.dll  |                |             |CallWindowProcA            |    |
+|7632792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76322ABC|user32.dll  |                |             |GetCapture                 |    |
+|76322AAC|user32.dll  |                |             |GetCapture                 |    |
+|76317BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|76317BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|00486893|Project1.exe|Project1.dpr    |             |                           |20  |
+|76B033C8|kernel32.dll|                |             |GetEnvironmentVariableA    |    |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/08/2016 11:19:09
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/08/2016 11:25:40
+  Address: 0047E08F
+  Module : Project1.exe
+  Type   : EPySyntaxError
+  Message: exceptions.SyntaxError: invalid syntax (line 4, offset 6): 'for in in range (0, len(a)):'.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 3109 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|0047E08F|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5412|
+|0047DB74|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5365|
+|00480822|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6391|
+|004807C0|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047D4E2|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5190|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|0048615A|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |83  |
+|7756DF85|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|7756E683|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|763211E9|user32.dll  |                |             |PtInRect                   |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76319679|user32.dll  |                |             |SendMessageW               |    |
+|775A3BF0|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|76327945|user32.dll  |                |             |CallWindowProcA            |    |
+|7632792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76322ABC|user32.dll  |                |             |GetCapture                 |    |
+|76322AAC|user32.dll  |                |             |GetCapture                 |    |
+|76317BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|76317BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|00486893|Project1.exe|Project1.dpr    |             |                           |20  |
+|76B033C8|kernel32.dll|                |             |GetEnvironmentVariableA    |    |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/08/2016 11:19:09
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/08/2016 11:25:59
+  Address: 0047E08F
+  Module : Project1.exe
+  Type   : EPySyntaxError
+  Message: exceptions.SyntaxError: invalid syntax (line 5, offset 18): 'print(a[i], end=" ")'.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 3109 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|0047E08F|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5412|
+|0047DB74|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5365|
+|00480822|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6391|
+|004807C0|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047D4E2|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5190|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|0048615A|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |83  |
+|7756DF85|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|7756E683|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|763211E9|user32.dll  |                |             |PtInRect                   |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76319679|user32.dll  |                |             |SendMessageW               |    |
+|775A3BF0|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|76327945|user32.dll  |                |             |CallWindowProcA            |    |
+|7632792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76322ABC|user32.dll  |                |             |GetCapture                 |    |
+|76322AAC|user32.dll  |                |             |GetCapture                 |    |
+|76317BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|76317BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|00486893|Project1.exe|Project1.dpr    |             |                           |20  |
+|76B033C8|kernel32.dll|                |             |GetEnvironmentVariableA    |    |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/08/2016 11:19:09
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/08/2016 11:28:08
+  Address: 0047E0D2
+  Module : Project1.exe
+  Type   : EPyTypeError
+  Message: exceptions.TypeError: object of type 'PythonDelphiVar' has no len().
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 3118 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|0047E0D2|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5414|
+|0047DB74|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5365|
+|00480822|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6391|
+|004807C0|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047D4E2|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5190|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|0048615A|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |83  |
+|7756DF85|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|7756E683|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|763211E9|user32.dll  |                |             |PtInRect                   |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76319679|user32.dll  |                |             |SendMessageW               |    |
+|775A3BF0|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|76327945|user32.dll  |                |             |CallWindowProcA            |    |
+|7632792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76322ABC|user32.dll  |                |             |GetCapture                 |    |
+|76322AAC|user32.dll  |                |             |GetCapture                 |    |
+|76317BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|76317BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|00486893|Project1.exe|Project1.dpr    |             |                           |20  |
+|76B033C8|kernel32.dll|                |             |GetEnvironmentVariableA    |    |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/08/2016 11:28:20
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/08/2016 11:35:30
+  Address: 0047E0D2
+  Module : Project1.exe
+  Type   : EPyTypeError
+  Message: exceptions.TypeError: expected c_double_Array_10 instead of PythonDelphiVar.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 3126 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|0047E0D2|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5414|
+|0047DB74|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5365|
+|00480822|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6391|
+|004807C0|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047D4E2|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5190|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|0048615A|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |83  |
+|7756DF85|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|7756E683|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|763211E9|user32.dll  |                |             |PtInRect                   |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76319679|user32.dll  |                |             |SendMessageW               |    |
+|775A3BF0|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|76327945|user32.dll  |                |             |CallWindowProcA            |    |
+|7632792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76322ABC|user32.dll  |                |             |GetCapture                 |    |
+|76322AAC|user32.dll  |                |             |GetCapture                 |    |
+|76317BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|76317BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|00486893|Project1.exe|Project1.dpr    |             |                           |20  |
+|76B033C8|kernel32.dll|                |             |GetEnvironmentVariableA    |    |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/08/2016 17:23:04
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/08/2016 17:23:52
+  Address: 0047DFA8
+  Module : Project1.exe
+  Type   : EPyAttributeError
+  Message: exceptions.AttributeError: 'LP_c_double_Array_10' object has no attribute 'contetens'.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 2653 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|0047DFA8|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5406|
+|0047DB74|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5365|
+|00480822|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6391|
+|004807C0|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047D4E2|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5190|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|0048615A|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |83  |
+|7756DF85|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|7756E683|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|763211E9|user32.dll  |                |             |PtInRect                   |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76319679|user32.dll  |                |             |SendMessageW               |    |
+|775A3BF0|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|76327945|user32.dll  |                |             |CallWindowProcA            |    |
+|7632792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76322ABC|user32.dll  |                |             |GetCapture                 |    |
+|76322AAC|user32.dll  |                |             |GetCapture                 |    |
+|76317BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|76317BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|00486893|Project1.exe|Project1.dpr    |             |                           |20  |
+|76B033C8|kernel32.dll|                |             |GetEnvironmentVariableA    |    |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/08/2016 17:23:04
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/08/2016 17:24:08
+  Address: 0047DFA8
+  Module : Project1.exe
+  Type   : EPyAttributeError
+  Message: exceptions.AttributeError: 'LP_c_double_Array_10' object has no attribute 'contetens'.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 2640 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|0047DFA8|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5406|
+|0047DB74|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5365|
+|00480822|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6391|
+|004807C0|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047D4E2|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5190|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|0048615A|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |83  |
+|7756DF85|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|7756E683|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|763211E9|user32.dll  |                |             |PtInRect                   |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76319679|user32.dll  |                |             |SendMessageW               |    |
+|775A3BF0|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|76327945|user32.dll  |                |             |CallWindowProcA            |    |
+|7632792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76322ABC|user32.dll  |                |             |GetCapture                 |    |
+|76322AAC|user32.dll  |                |             |GetCapture                 |    |
+|76317BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|76317BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|00486893|Project1.exe|Project1.dpr    |             |                           |20  |
+|76B033C8|kernel32.dll|                |             |GetEnvironmentVariableA    |    |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/08/2016 17:23:04
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/08/2016 17:24:58
+  Address: 0047DFA8
+  Module : Project1.exe
+  Type   : EPyAttributeError
+  Message: exceptions.AttributeError: 'c_double_Array_10' object has no attribute 'data'.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 2640 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|0047DFA8|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5406|
+|0047DB74|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5365|
+|00480822|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6391|
+|004807C0|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047D4E2|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5190|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|0048615A|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |83  |
+|7756DF85|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|7756E683|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|7632792F|user32.dll  |                |             |CallWindowProcA            |    |
+|763211E9|user32.dll  |                |             |PtInRect                   |    |
+|775A3BF0|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76319679|user32.dll  |                |             |SendMessageW               |    |
+|775A3BF0|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|76327945|user32.dll  |                |             |CallWindowProcA            |    |
+|7632792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76322ABC|user32.dll  |                |             |GetCapture                 |    |
+|76322AAC|user32.dll  |                |             |GetCapture                 |    |
+|76317BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|76317BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|00486893|Project1.exe|Project1.dpr    |             |                           |20  |
+|76B033C8|kernel32.dll|                |             |GetEnvironmentVariableA    |    |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/08/2016 17:23:04
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/08/2016 17:25:12
+  Address: 0047DFA8
+  Module : Project1.exe
+  Type   : EPyAttributeError
+  Message: exceptions.AttributeError: 'c_double_Array_10' object has no attribute 'content'.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 2641 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|0047DFA8|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5406|
+|0047DB74|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5365|
+|00480822|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6391|
+|004807C0|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047D4E2|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5190|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|0048615A|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |83  |
+|7756DF85|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|7756E683|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|763211E9|user32.dll  |                |             |PtInRect                   |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76319679|user32.dll  |                |             |SendMessageW               |    |
+|775A3BF0|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|76327945|user32.dll  |                |             |CallWindowProcA            |    |
+|7632792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76322ABC|user32.dll  |                |             |GetCapture                 |    |
+|76322AAC|user32.dll  |                |             |GetCapture                 |    |
+|76317BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|76317BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|00486893|Project1.exe|Project1.dpr    |             |                           |20  |
+|76B033C8|kernel32.dll|                |             |GetEnvironmentVariableA    |    |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/09/2016 16:22:39
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/09/2016 16:24:14
+  Address: 0047DF65
+  Module : Project1.exe
+  Type   : EPyNameError
+  Message: exceptions.NameError: name 'ctypes' is not defined.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 2274 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|0047DF65|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5404|
+|0047DB74|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5365|
+|00480822|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6391|
+|004807C0|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047D4E2|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5190|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|0048615A|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |83  |
+|7756DF85|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|7756E683|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|763211E9|user32.dll  |                |             |PtInRect                   |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76319679|user32.dll  |                |             |SendMessageW               |    |
+|775A3BF0|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|76327945|user32.dll  |                |             |CallWindowProcA            |    |
+|7632792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76322ABC|user32.dll  |                |             |GetCapture                 |    |
+|76322AAC|user32.dll  |                |             |GetCapture                 |    |
+|76317BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|76317BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|00486893|Project1.exe|Project1.dpr    |             |                           |20  |
+|76B033C8|kernel32.dll|                |             |GetEnvironmentVariableA    |    |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/09/2016 16:28:47
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/09/2016 16:30:40
+  Address: 0047DF65
+  Module : Project1.exe
+  Type   : EPyNameError
+  Message: exceptions.NameError: name 'cdll' is not defined.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Stopped]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 2240 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|0047DF65|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5404|
+|0047DB74|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5365|
+|00480822|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6391|
+|004807C0|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047D4E2|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5190|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|0048615A|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |83  |
+|7756DF85|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|7756E683|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|763211E9|user32.dll  |                |             |PtInRect                   |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76319679|user32.dll  |                |             |SendMessageW               |    |
+|775A3BF0|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|76327945|user32.dll  |                |             |CallWindowProcA            |    |
+|7632792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76322ABC|user32.dll  |                |             |GetCapture                 |    |
+|76322AAC|user32.dll  |                |             |GetCapture                 |    |
+|76317BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|76317BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|0048688F|Project1.exe|Project1.dpr    |             |                           |20  |
+|76B033C8|kernel32.dll|                |             |GetEnvironmentVariableA    |    |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/09/2016 16:41:21
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/09/2016 16:42:10
+  Address: 0047DF65
+  Module : Project1.exe
+  Type   : EPyNameError
+  Message: exceptions.NameError: name 'cdll' is not defined.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 2239 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|0047DF65|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5404|
+|0047DB74|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5365|
+|00480822|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6391|
+|004807C0|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047D4E2|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5190|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|0048615A|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |83  |
+|7756DF85|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|7756E683|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|763211E9|user32.dll  |                |             |PtInRect                   |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76319679|user32.dll  |                |             |SendMessageW               |    |
+|775A3BF0|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|76327945|user32.dll  |                |             |CallWindowProcA            |    |
+|7632792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76322ABC|user32.dll  |                |             |GetCapture                 |    |
+|76322AAC|user32.dll  |                |             |GetCapture                 |    |
+|76317BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|76317BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|0048694B|Project1.exe|Project1.dpr    |             |                           |20  |
+|76B033C8|kernel32.dll|                |             |GetEnvironmentVariableA    |    |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/09/2016 16:41:21
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/09/2016 16:42:38
+  Address: 0047E0D2
+  Module : Project1.exe
+  Type   : EPyTypeError
+  Message: exceptions.TypeError: integer expected.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 2231 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|0047E0D2|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5414|
+|0047DB74|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5365|
+|00480822|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6391|
+|004807C0|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047D4E2|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5190|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|0048615A|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |83  |
+|7756DF85|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|7756E683|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|763211E9|user32.dll  |                |             |PtInRect                   |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76319679|user32.dll  |                |             |SendMessageW               |    |
+|775A3BF0|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|76327945|user32.dll  |                |             |CallWindowProcA            |    |
+|7632792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76322ABC|user32.dll  |                |             |GetCapture                 |    |
+|76322AAC|user32.dll  |                |             |GetCapture                 |    |
+|76317BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|76317BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|0048694B|Project1.exe|Project1.dpr    |             |                           |20  |
+|76B033C8|kernel32.dll|                |             |GetEnvironmentVariableA    |    |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/09/2016 16:41:21
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/09/2016 16:43:21
+  Address: 0047E0D2
+  Module : Project1.exe
+  Type   : EPyTypeError
+  Message: exceptions.TypeError: integer expected.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Stopped]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 2231 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|0047E0D2|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5414|
+|0047DB74|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5365|
+|00480822|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6391|
+|004807C0|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047D4E2|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5190|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|0048615A|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |83  |
+|7756DF85|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|7756E683|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|763211E9|user32.dll  |                |             |PtInRect                   |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76319679|user32.dll  |                |             |SendMessageW               |    |
+|775A3BF0|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|76327945|user32.dll  |                |             |CallWindowProcA            |    |
+|7632792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76322ABC|user32.dll  |                |             |GetCapture                 |    |
+|76322AAC|user32.dll  |                |             |GetCapture                 |    |
+|76317BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|76317BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|0048694B|Project1.exe|Project1.dpr    |             |                           |20  |
+|76B033C8|kernel32.dll|                |             |GetEnvironmentVariableA    |    |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/09/2016 16:41:21
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/09/2016 16:45:38
+  Address: 0047E0D2
+  Module : Project1.exe
+  Type   : EPyTypeError
+  Message: exceptions.TypeError: int() argument must be a string or a number, not 'PythonDelphiVar'.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 2237 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|0047E0D2|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5414|
+|0047DB74|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5365|
+|00480822|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6391|
+|004807C0|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047D4E2|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5190|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|0048615A|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |83  |
+|7756DF85|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|7756E683|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|763211E9|user32.dll  |                |             |PtInRect                   |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76319679|user32.dll  |                |             |SendMessageW               |    |
+|775A3BF0|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|76327945|user32.dll  |                |             |CallWindowProcA            |    |
+|7632792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76322ABC|user32.dll  |                |             |GetCapture                 |    |
+|76322AAC|user32.dll  |                |             |GetCapture                 |    |
+|76317BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|76317BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|0048694B|Project1.exe|Project1.dpr    |             |                           |20  |
+|76B033C8|kernel32.dll|                |             |GetEnvironmentVariableA    |    |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/09/2016 17:07:34
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/09/2016 17:08:40
+  Address: 0047E08F
+  Module : Project1.exe
+  Type   : EPySyntaxError
+  Message: exceptions.SyntaxError: invalid syntax (line 6, offset 57): 'newArr = np.frombuffer(ArrayType.from_address(30288320)))'.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 2231 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|0047E08F|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5412|
+|0047DB74|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5365|
+|00480822|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6391|
+|004807C0|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047D4E2|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5190|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|0048615A|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |83  |
+|7756DF85|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|7756E683|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|763211E9|user32.dll  |                |             |PtInRect                   |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76319679|user32.dll  |                |             |SendMessageW               |    |
+|775A3BF0|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|76327945|user32.dll  |                |             |CallWindowProcA            |    |
+|7632792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76322ABC|user32.dll  |                |             |GetCapture                 |    |
+|76322AAC|user32.dll  |                |             |GetCapture                 |    |
+|76317BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|76317BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|004869EB|Project1.exe|Project1.dpr    |             |                           |20  |
+|76B033C8|kernel32.dll|                |             |GetEnvironmentVariableA    |    |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/09/2016 17:07:34
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/09/2016 17:08:53
+  Address: 0047E08F
+  Module : Project1.exe
+  Type   : EPySyntaxError
+  Message: exceptions.SyntaxError: invalid syntax (line 6, offset 57): 'newArr = np.frombuffer(ArrayType.from_address(30288320)))'.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 2230 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|0047E08F|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5412|
+|0047DB74|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5365|
+|00480822|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6391|
+|004807C0|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047D4E2|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5190|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|0048615A|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |83  |
+|7756DF85|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|7756E683|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|763211E9|user32.dll  |                |             |PtInRect                   |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76319679|user32.dll  |                |             |SendMessageW               |    |
+|775A3BF0|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|76327945|user32.dll  |                |             |CallWindowProcA            |    |
+|7632792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77562270|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|76322ABC|user32.dll  |                |             |GetCapture                 |    |
+|76322AAC|user32.dll  |                |             |GetCapture                 |    |
+|76317BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|76317BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|004869EB|Project1.exe|Project1.dpr    |             |                           |20  |
+|76B033C8|kernel32.dll|                |             |GetEnvironmentVariableA    |    |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/10/2016 10:22:11
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/10/2016 10:23:42
+  Address: 0209F2EF
+  Module : umath.pyd
+  Type   : EInvalidOp
+  Message: Invalid floating point operation.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 2580 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+----------------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method                  |Line|
+----------------------------------------------------------------------------------------------
+|775C27D0|ntdll.dll   |                |             |RtlCompareMemoryUlong             |    |
+|1E0AAD60|python27.dll|                |             |PyCFunction_NewEx                 |    |
+|1E0AAE90|python27.dll|                |             |PyCFunction_Call                  |    |
+|1E0AC200|python27.dll|                |             |PyObject_GetAttr                  |    |
+|1E0EDD90|python27.dll|                |             |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |             |PyEval_EvalCodeEx                 |    |
+|1E07CDEA|python27.dll|                |             |PyObject_Call                     |    |
+|1E07CDA0|python27.dll|                |             |PyObject_Call                     |    |
+|77592280|ntdll.dll   |                |             |RtlLeaveCriticalSection           |    |
+|1E0BE120|python27.dll|                |             |PyType_IsSubtype                  |    |
+|1E09DAC0|python27.dll|                |             |PyFrame_New                       |    |
+|1E10080B|python27.dll|                |             |_PyArg_ParseTupleAndKeywords_SizeT|    |
+|1E0AC200|python27.dll|                |             |PyObject_GetAttr                  |    |
+|1E07CDEA|python27.dll|                |             |PyObject_Call                     |    |
+|1E07CDA0|python27.dll|                |             |PyObject_Call                     |    |
+|1E07CDEA|python27.dll|                |             |PyObject_Call                     |    |
+|1E07CDA0|python27.dll|                |             |PyObject_Call                     |    |
+|1E0EDD90|python27.dll|                |             |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |             |PyEval_EvalCodeEx                 |    |
+|1E0BE120|python27.dll|                |             |PyType_IsSubtype                  |    |
+|1E09DAC0|python27.dll|                |             |PyFrame_New                       |    |
+|1E0EDD90|python27.dll|                |             |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |             |PyEval_EvalCodeEx                 |    |
+|1E0BE120|python27.dll|                |             |PyType_IsSubtype                  |    |
+|1E09DAC0|python27.dll|                |             |PyFrame_New                       |    |
+|1E0EDD90|python27.dll|                |             |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |             |PyEval_EvalCodeEx                 |    |
+|1E07CDEA|python27.dll|                |             |PyObject_Call                     |    |
+|1E07CDA0|python27.dll|                |             |PyObject_Call                     |    |
+|1E0ABD20|python27.dll|                |             |_PyObject_Str                     |    |
+|1E0ABDF6|python27.dll|                |             |PyObject_Str                      |    |
+|1E0ABDF0|python27.dll|                |             |PyObject_Str                      |    |
+|1E098490|python27.dll|                |             |PyFile_WriteObject                |    |
+|1E032E50|python27.dll|                |             |_PyObject_GC_Malloc               |    |
+|1E032F1B|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E032F00|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E0EDD90|python27.dll|                |             |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |             |PyEval_EvalCodeEx                 |    |
+|1E0F115D|python27.dll|                |             |PyEval_EvalCode                   |    |
+|1E0F1140|python27.dll|                |             |PyEval_EvalCode                   |    |
+|1E118130|python27.dll|                |             |PyRun_StringFlags                 |    |
+|1E1183C6|python27.dll|                |             |PyRun_String                      |    |
+|0047D4CB|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict       |5188|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict       |5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject               |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject               |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                       |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                       |5202|
+|00486186|Project1.exe|Unit1.pas       |TForm1       |Button1Click                      |88  |
+|7759DFA5|ntdll.dll   |                |             |RtlFreeHeap                       |    |
+|7759E6A3|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor       |    |
+|756A11E9|user32.dll  |                |             |PtInRect                          |    |
+|77592280|ntdll.dll   |                |             |RtlLeaveCriticalSection           |    |
+|75699679|user32.dll  |                |             |SendMessageW                      |    |
+|775C2870|ntdll.dll   |                |             |RtlFillMemoryUlong                |    |
+|756A7945|user32.dll  |                |             |CallWindowProcA                   |    |
+|756A792F|user32.dll  |                |             |CallWindowProcA                   |    |
+|77592280|ntdll.dll   |                |             |RtlLeaveCriticalSection           |    |
+|756A2ABC|user32.dll  |                |             |GetCapture                        |    |
+|756A2AAC|user32.dll  |                |             |GetCapture                        |    |
+|75697BC5|user32.dll  |                |             |DispatchMessageA                  |    |
+|75697BBB|user32.dll  |                |             |DispatchMessageA                  |    |
+|00486C13|Project1.exe|Project1.dpr    |             |                                  |20  |
+----------------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/10/2016 10:22:11
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/10/2016 10:34:28
+  Address: 1E11C635
+  Module : python27.dll
+  Type   : EAccessViolation
+  Message: Access violation at address 1E11C635 in module 'python27.dll'. Read of address 00000004.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Stopped]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 2571 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+-------------------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class           |Procedure/Method                  |Line|
+-------------------------------------------------------------------------------------------------
+|1E11C635|python27.dll|                |                |PySys_GetObject                   |    |
+|1E11C630|python27.dll|                |                |PySys_GetObject                   |    |
+|1E0EC546|python27.dll|                |                |Py_FlushLine                      |    |
+|0047BBD4|Project1.exe|PythonEngine.pas|TPythonInterface|Py_FlushLine                      |4372|
+|0047BBC8|Project1.exe|PythonEngine.pas|TPythonInterface|Py_FlushLine                      |4370|
+|0047D504|Project1.exe|PythonEngine.pas|TPythonEngine   |Run_CommandAsObjectWithDict       |5193|
+|7758012E|ntdll.dll   |                |                |KiUserExceptionDispatcher         |    |
+|769C5EC0|USP10.dll   |                |                |ScriptTextOut                     |    |
+|769C7420|USP10.dll   |                |                |ScriptCacheGetHeight              |    |
+|756B175A|user32.dll  |                |                |EditWndProc                       |    |
+|1E0B37C0|python27.dll|                |                |_PyString_Eq                      |    |
+|1E032E10|python27.dll|                |                |PyObject_GC_UnTrack               |    |
+|1E0AAD60|python27.dll|                |                |PyCFunction_NewEx                 |    |
+|1E0AAE90|python27.dll|                |                |PyCFunction_Call                  |    |
+|1E0AC200|python27.dll|                |                |PyObject_GetAttr                  |    |
+|1E0EDD90|python27.dll|                |                |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |                |PyEval_EvalCodeEx                 |    |
+|1E07CDEA|python27.dll|                |                |PyObject_Call                     |    |
+|1E07CDA0|python27.dll|                |                |PyObject_Call                     |    |
+|77592280|ntdll.dll   |                |                |RtlLeaveCriticalSection           |    |
+|1E0BE120|python27.dll|                |                |PyType_IsSubtype                  |    |
+|1E09DAC0|python27.dll|                |                |PyFrame_New                       |    |
+|1E10080B|python27.dll|                |                |_PyArg_ParseTupleAndKeywords_SizeT|    |
+|1E0AC200|python27.dll|                |                |PyObject_GetAttr                  |    |
+|1E07CDEA|python27.dll|                |                |PyObject_Call                     |    |
+|1E07CDA0|python27.dll|                |                |PyObject_Call                     |    |
+|1E07CDEA|python27.dll|                |                |PyObject_Call                     |    |
+|1E07CDA0|python27.dll|                |                |PyObject_Call                     |    |
+|1E0EDD90|python27.dll|                |                |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |                |PyEval_EvalCodeEx                 |    |
+|1E0BE120|python27.dll|                |                |PyType_IsSubtype                  |    |
+|1E09DAC0|python27.dll|                |                |PyFrame_New                       |    |
+|1E0EDD90|python27.dll|                |                |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |                |PyEval_EvalCodeEx                 |    |
+|1E0BE120|python27.dll|                |                |PyType_IsSubtype                  |    |
+|1E09DAC0|python27.dll|                |                |PyFrame_New                       |    |
+|1E0EDD90|python27.dll|                |                |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |                |PyEval_EvalCodeEx                 |    |
+|1E07CDEA|python27.dll|                |                |PyObject_Call                     |    |
+|1E07CDA0|python27.dll|                |                |PyObject_Call                     |    |
+|1E0ABD20|python27.dll|                |                |_PyObject_Str                     |    |
+|1E0ABDF6|python27.dll|                |                |PyObject_Str                      |    |
+|1E0ABDF0|python27.dll|                |                |PyObject_Str                      |    |
+|1E098490|python27.dll|                |                |PyFile_WriteObject                |    |
+|1E032E50|python27.dll|                |                |_PyObject_GC_Malloc               |    |
+|1E032F1B|python27.dll|                |                |_PyObject_GC_NewVar               |    |
+|1E032F00|python27.dll|                |                |_PyObject_GC_NewVar               |    |
+|1E0EDD90|python27.dll|                |                |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |                |PyEval_EvalCodeEx                 |    |
+|1E0F115D|python27.dll|                |                |PyEval_EvalCode                   |    |
+|1E0F1140|python27.dll|                |                |PyEval_EvalCode                   |    |
+|1E118130|python27.dll|                |                |PyRun_StringFlags                 |    |
+|1E1183C6|python27.dll|                |                |PyRun_String                      |    |
+|0047D4CB|Project1.exe|PythonEngine.pas|TPythonEngine   |Run_CommandAsObjectWithDict       |5188|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine   |Run_CommandAsObjectWithDict       |5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine   |Run_CommandAsObject               |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine   |Run_CommandAsObject               |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine   |ExecStrings                       |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine   |ExecStrings                       |5202|
+|00486186|Project1.exe|Unit1.pas       |TForm1          |Button1Click                      |88  |
+|7759DFA5|ntdll.dll   |                |                |RtlFreeHeap                       |    |
+|7759E6A3|ntdll.dll   |                |                |RtlDeleteBoundaryDescriptor       |    |
+|756A11E9|user32.dll  |                |                |PtInRect                          |    |
+|77592280|ntdll.dll   |                |                |RtlLeaveCriticalSection           |    |
+|75699679|user32.dll  |                |                |SendMessageW                      |    |
+|775C2870|ntdll.dll   |                |                |RtlFillMemoryUlong                |    |
+|756A7945|user32.dll  |                |                |CallWindowProcA                   |    |
+|756A792F|user32.dll  |                |                |CallWindowProcA                   |    |
+|77592280|ntdll.dll   |                |                |RtlLeaveCriticalSection           |    |
+|756A2ABC|user32.dll  |                |                |GetCapture                        |    |
+|756A2AAC|user32.dll  |                |                |GetCapture                        |    |
+|75697BC5|user32.dll  |                |                |DispatchMessageA                  |    |
+|75697BBB|user32.dll  |                |                |DispatchMessageA                  |    |
+|00486C13|Project1.exe|Project1.dpr    |                |                                  |20  |
+-------------------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/10/2016 10:22:11
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/10/2016 10:35:00
+  Address: 1E0FAF15
+  Module : python27.dll
+  Type   : EAccessViolation
+  Message: Access violation at address 1E0FAF15 in module 'python27.dll'. Read of address 00000028.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 2559 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|1E0FAF15|python27.dll|                |             |PyErr_Occurred             |    |
+|004807C6|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6380|
+|004807C0|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047D413|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5167|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|00486186|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |88  |
+|7759DFA5|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|7759E6A3|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|756A11E9|user32.dll  |                |             |PtInRect                   |    |
+|77592280|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|75699679|user32.dll  |                |             |SendMessageW               |    |
+|775C2870|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|756A7945|user32.dll  |                |             |CallWindowProcA            |    |
+|756A792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77592280|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|756A2ABC|user32.dll  |                |             |GetCapture                 |    |
+|756A2AAC|user32.dll  |                |             |GetCapture                 |    |
+|75697BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|75697BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|00486C13|Project1.exe|Project1.dpr    |             |                           |20  |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/10/2016 10:22:11
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/10/2016 10:35:20
+  Address: 1E0FAF15
+  Module : python27.dll
+  Type   : EAccessViolation
+  Message: Access violation at address 1E0FAF15 in module 'python27.dll'. Read of address 00000028.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Stopped]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 2559 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|1E0FAF15|python27.dll|                |             |PyErr_Occurred             |    |
+|004807C6|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6380|
+|004807C0|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047D413|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5167|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|00486186|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |88  |
+|7759DFA5|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|7759E6A3|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|756A11E9|user32.dll  |                |             |PtInRect                   |    |
+|77592280|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|75699679|user32.dll  |                |             |SendMessageW               |    |
+|775C2870|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|756A7945|user32.dll  |                |             |CallWindowProcA            |    |
+|756A792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77592280|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|756A2ABC|user32.dll  |                |             |GetCapture                 |    |
+|756A2AAC|user32.dll  |                |             |GetCapture                 |    |
+|75697BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|75697BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|00486C13|Project1.exe|Project1.dpr    |             |                           |20  |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/10/2016 10:22:11
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/10/2016 10:35:40
+  Address: 1E0FAF15
+  Module : python27.dll
+  Type   : EAccessViolation
+  Message: Access violation at address 1E0FAF15 in module 'python27.dll'. Read of address 00000028.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Stopped]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 2560 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|1E0FAF15|python27.dll|                |             |PyErr_Occurred             |    |
+|004807C6|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6380|
+|004807C0|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047D413|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5167|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|00486186|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |88  |
+|7759DFA5|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|7759E6A3|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|756A11E9|user32.dll  |                |             |PtInRect                   |    |
+|77592280|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|75699679|user32.dll  |                |             |SendMessageW               |    |
+|775C2870|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|756A7945|user32.dll  |                |             |CallWindowProcA            |    |
+|756A792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77592280|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|756A2ABC|user32.dll  |                |             |GetCapture                 |    |
+|756A2AAC|user32.dll  |                |             |GetCapture                 |    |
+|75697BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|75697BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|00486C13|Project1.exe|Project1.dpr    |             |                           |20  |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/10/2016 10:22:11
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/10/2016 10:35:45
+  Address: 1E117515
+  Module : python27.dll
+  Type   : EAccessViolation
+  Message: Access violation at address 1E117515 in module 'python27.dll'. Read of address 00000004.
+
+Active Controls...
+  Form Class   : Button
+  Form Text    : 开始
+  Control Class: 
+  Control Text : 
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 2559 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+----------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method|Line|
+----------------------------------------------------------------------------
+|1E11787E|python27.dll|                |             |PyOS_setsig     |    |
+|0047C3A1|Project1.exe|PythonEngine.pas|TPythonEngine|Finalize        |4601|
+|0047C2F8|Project1.exe|PythonEngine.pas|TPythonEngine|Finalize        |4576|
+|0047C2AA|Project1.exe|PythonEngine.pas|TPythonEngine|Destroy         |4559|
+|00486C18|Project1.exe|Project1.dpr    |             |                |21  |
+----------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/10/2016 10:42:09
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/10/2016 10:42:35
+  Address: 01FCF2EF
+  Module : umath.pyd
+  Type   : EInvalidOp
+  Message: Invalid floating point operation.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 2564 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+----------------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method                  |Line|
+----------------------------------------------------------------------------------------------
+|1E0AAD60|python27.dll|                |             |PyCFunction_NewEx                 |    |
+|1E0AAE90|python27.dll|                |             |PyCFunction_Call                  |    |
+|1E0AC200|python27.dll|                |             |PyObject_GetAttr                  |    |
+|1E032E50|python27.dll|                |             |_PyObject_GC_Malloc               |    |
+|1E032F1B|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E032F00|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E0EDD90|python27.dll|                |             |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |             |PyEval_EvalCodeEx                 |    |
+|1E07CDEA|python27.dll|                |             |PyObject_Call                     |    |
+|1E07CDA0|python27.dll|                |             |PyObject_Call                     |    |
+|77592280|ntdll.dll   |                |             |RtlLeaveCriticalSection           |    |
+|1E032E50|python27.dll|                |             |_PyObject_GC_Malloc               |    |
+|1E032F1B|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E032F00|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E10080B|python27.dll|                |             |_PyArg_ParseTupleAndKeywords_SizeT|    |
+|1E0AC200|python27.dll|                |             |PyObject_GetAttr                  |    |
+|1E08FA70|python27.dll|                |             |PyDict_GetItem                    |    |
+|1E07CDEA|python27.dll|                |             |PyObject_Call                     |    |
+|1E07CDA0|python27.dll|                |             |PyObject_Call                     |    |
+|1E07CDEA|python27.dll|                |             |PyObject_Call                     |    |
+|1E07CDA0|python27.dll|                |             |PyObject_Call                     |    |
+|1E032E50|python27.dll|                |             |_PyObject_GC_Malloc               |    |
+|1E032F1B|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E032F00|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E0EDD90|python27.dll|                |             |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |             |PyEval_EvalCodeEx                 |    |
+|1E032E50|python27.dll|                |             |_PyObject_GC_Malloc               |    |
+|1E032F1B|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E032F00|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E0EDD90|python27.dll|                |             |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |             |PyEval_EvalCodeEx                 |    |
+|1E032E50|python27.dll|                |             |_PyObject_GC_Malloc               |    |
+|1E032F1B|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E032F00|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E0EDD90|python27.dll|                |             |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |             |PyEval_EvalCodeEx                 |    |
+|1E07CDEA|python27.dll|                |             |PyObject_Call                     |    |
+|1E07CDA0|python27.dll|                |             |PyObject_Call                     |    |
+|1E0ABD20|python27.dll|                |             |_PyObject_Str                     |    |
+|1E0ABDF6|python27.dll|                |             |PyObject_Str                      |    |
+|1E0ABDF0|python27.dll|                |             |PyObject_Str                      |    |
+|1E098490|python27.dll|                |             |PyFile_WriteObject                |    |
+|1E032E50|python27.dll|                |             |_PyObject_GC_Malloc               |    |
+|1E032F1B|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E032F00|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E0EDD90|python27.dll|                |             |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |             |PyEval_EvalCodeEx                 |    |
+|1E0F115D|python27.dll|                |             |PyEval_EvalCode                   |    |
+|1E0F1140|python27.dll|                |             |PyEval_EvalCode                   |    |
+|1E118130|python27.dll|                |             |PyRun_StringFlags                 |    |
+|1E1183C6|python27.dll|                |             |PyRun_String                      |    |
+|0047D4CB|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict       |5188|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict       |5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject               |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject               |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                       |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                       |5202|
+|00486176|Project1.exe|Unit1.pas       |TForm1       |Button1Click                      |87  |
+|7759DFA5|ntdll.dll   |                |             |RtlFreeHeap                       |    |
+|7759E6A3|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor       |    |
+|756A11E9|user32.dll  |                |             |PtInRect                          |    |
+|77592280|ntdll.dll   |                |             |RtlLeaveCriticalSection           |    |
+|75699679|user32.dll  |                |             |SendMessageW                      |    |
+|775C2870|ntdll.dll   |                |             |RtlFillMemoryUlong                |    |
+|756A7945|user32.dll  |                |             |CallWindowProcA                   |    |
+|756A792F|user32.dll  |                |             |CallWindowProcA                   |    |
+|77592280|ntdll.dll   |                |             |RtlLeaveCriticalSection           |    |
+|756A2ABC|user32.dll  |                |             |GetCapture                        |    |
+|756A2AAC|user32.dll  |                |             |GetCapture                        |    |
+|75697BC5|user32.dll  |                |             |DispatchMessageA                  |    |
+|75697BBB|user32.dll  |                |             |DispatchMessageA                  |    |
+|00486C9B|Project1.exe|Project1.dpr    |             |                                  |20  |
+----------------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/10/2016 10:43:42
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/10/2016 10:48:44
+  Address: 022DF2EF
+  Module : umath.pyd
+  Type   : EInvalidOp
+  Message: Invalid floating point operation.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Stopped]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 2548 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+----------------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method                  |Line|
+----------------------------------------------------------------------------------------------
+|1E0AAD60|python27.dll|                |             |PyCFunction_NewEx                 |    |
+|1E0AAE90|python27.dll|                |             |PyCFunction_Call                  |    |
+|1E0AC200|python27.dll|                |             |PyObject_GetAttr                  |    |
+|1E032E50|python27.dll|                |             |_PyObject_GC_Malloc               |    |
+|1E032F1B|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E032F00|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E0EDD90|python27.dll|                |             |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |             |PyEval_EvalCodeEx                 |    |
+|1E07CDEA|python27.dll|                |             |PyObject_Call                     |    |
+|1E07CDA0|python27.dll|                |             |PyObject_Call                     |    |
+|77592280|ntdll.dll   |                |             |RtlLeaveCriticalSection           |    |
+|1E032E50|python27.dll|                |             |_PyObject_GC_Malloc               |    |
+|1E032F1B|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E032F00|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E10080B|python27.dll|                |             |_PyArg_ParseTupleAndKeywords_SizeT|    |
+|1E0AC200|python27.dll|                |             |PyObject_GetAttr                  |    |
+|1E08FA70|python27.dll|                |             |PyDict_GetItem                    |    |
+|1E07CDEA|python27.dll|                |             |PyObject_Call                     |    |
+|1E07CDA0|python27.dll|                |             |PyObject_Call                     |    |
+|1E07CDEA|python27.dll|                |             |PyObject_Call                     |    |
+|1E07CDA0|python27.dll|                |             |PyObject_Call                     |    |
+|1E032E50|python27.dll|                |             |_PyObject_GC_Malloc               |    |
+|1E032F1B|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E032F00|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E0EDD90|python27.dll|                |             |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |             |PyEval_EvalCodeEx                 |    |
+|1E032E50|python27.dll|                |             |_PyObject_GC_Malloc               |    |
+|1E032F1B|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E032F00|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E0EDD90|python27.dll|                |             |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |             |PyEval_EvalCodeEx                 |    |
+|1E032E50|python27.dll|                |             |_PyObject_GC_Malloc               |    |
+|1E032F1B|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E032F00|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E0EDD90|python27.dll|                |             |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |             |PyEval_EvalCodeEx                 |    |
+|1E07CDEA|python27.dll|                |             |PyObject_Call                     |    |
+|1E07CDA0|python27.dll|                |             |PyObject_Call                     |    |
+|1E0ABD20|python27.dll|                |             |_PyObject_Str                     |    |
+|1E0ABDF6|python27.dll|                |             |PyObject_Str                      |    |
+|1E0ABDF0|python27.dll|                |             |PyObject_Str                      |    |
+|1E098490|python27.dll|                |             |PyFile_WriteObject                |    |
+|1E032E50|python27.dll|                |             |_PyObject_GC_Malloc               |    |
+|1E032F1B|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E032F00|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E0EDD90|python27.dll|                |             |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |             |PyEval_EvalCodeEx                 |    |
+|1E0F115D|python27.dll|                |             |PyEval_EvalCode                   |    |
+|1E0F1140|python27.dll|                |             |PyEval_EvalCode                   |    |
+|1E118130|python27.dll|                |             |PyRun_StringFlags                 |    |
+|1E1183C6|python27.dll|                |             |PyRun_String                      |    |
+|0047D4CB|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict       |5188|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict       |5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject               |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject               |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                       |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                       |5202|
+|00486176|Project1.exe|Unit1.pas       |TForm1       |Button1Click                      |87  |
+|7759DFA5|ntdll.dll   |                |             |RtlFreeHeap                       |    |
+|7759E6A3|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor       |    |
+|756A11E9|user32.dll  |                |             |PtInRect                          |    |
+|77592280|ntdll.dll   |                |             |RtlLeaveCriticalSection           |    |
+|75699679|user32.dll  |                |             |SendMessageW                      |    |
+|775C2870|ntdll.dll   |                |             |RtlFillMemoryUlong                |    |
+|756A7945|user32.dll  |                |             |CallWindowProcA                   |    |
+|756A792F|user32.dll  |                |             |CallWindowProcA                   |    |
+|77592280|ntdll.dll   |                |             |RtlLeaveCriticalSection           |    |
+|756A2ABC|user32.dll  |                |             |GetCapture                        |    |
+|756A2AAC|user32.dll  |                |             |GetCapture                        |    |
+|75697BC5|user32.dll  |                |             |DispatchMessageA                  |    |
+|75697BBB|user32.dll  |                |             |DispatchMessageA                  |    |
+|00486C9B|Project1.exe|Project1.dpr    |             |                                  |20  |
+----------------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/10/2016 11:07:21
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/10/2016 11:07:43
+  Address: 0278F2EF
+  Module : umath.pyd
+  Type   : EInvalidOp
+  Message: Invalid floating point operation.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 2509 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+----------------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method                  |Line|
+----------------------------------------------------------------------------------------------
+|1E0AAD60|python27.dll|                |             |PyCFunction_NewEx                 |    |
+|1E0AAE90|python27.dll|                |             |PyCFunction_Call                  |    |
+|1E0AC200|python27.dll|                |             |PyObject_GetAttr                  |    |
+|1E032E50|python27.dll|                |             |_PyObject_GC_Malloc               |    |
+|1E032F1B|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E032F00|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E0EDD90|python27.dll|                |             |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |             |PyEval_EvalCodeEx                 |    |
+|1E07CDEA|python27.dll|                |             |PyObject_Call                     |    |
+|1E07CDA0|python27.dll|                |             |PyObject_Call                     |    |
+|77592280|ntdll.dll   |                |             |RtlLeaveCriticalSection           |    |
+|1E032E50|python27.dll|                |             |_PyObject_GC_Malloc               |    |
+|1E032F1B|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E032F00|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E10080B|python27.dll|                |             |_PyArg_ParseTupleAndKeywords_SizeT|    |
+|1E0AC200|python27.dll|                |             |PyObject_GetAttr                  |    |
+|1E08FA70|python27.dll|                |             |PyDict_GetItem                    |    |
+|1E07CDEA|python27.dll|                |             |PyObject_Call                     |    |
+|1E07CDA0|python27.dll|                |             |PyObject_Call                     |    |
+|1E07CDEA|python27.dll|                |             |PyObject_Call                     |    |
+|1E07CDA0|python27.dll|                |             |PyObject_Call                     |    |
+|1E032E50|python27.dll|                |             |_PyObject_GC_Malloc               |    |
+|1E032F1B|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E032F00|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E0EDD90|python27.dll|                |             |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |             |PyEval_EvalCodeEx                 |    |
+|1E032E50|python27.dll|                |             |_PyObject_GC_Malloc               |    |
+|1E032F1B|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E032F00|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E0EDD90|python27.dll|                |             |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |             |PyEval_EvalCodeEx                 |    |
+|1E032E50|python27.dll|                |             |_PyObject_GC_Malloc               |    |
+|1E032F1B|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E032F00|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E0EDD90|python27.dll|                |             |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |             |PyEval_EvalCodeEx                 |    |
+|1E07CDEA|python27.dll|                |             |PyObject_Call                     |    |
+|1E07CDA0|python27.dll|                |             |PyObject_Call                     |    |
+|1E0ABD20|python27.dll|                |             |_PyObject_Str                     |    |
+|1E0ABDF6|python27.dll|                |             |PyObject_Str                      |    |
+|1E0ABDF0|python27.dll|                |             |PyObject_Str                      |    |
+|1E098490|python27.dll|                |             |PyFile_WriteObject                |    |
+|1E032E50|python27.dll|                |             |_PyObject_GC_Malloc               |    |
+|1E032F1B|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E032F00|python27.dll|                |             |_PyObject_GC_NewVar               |    |
+|1E0EDD90|python27.dll|                |             |PyEval_EvalFrameEx                |    |
+|1E0F0A70|python27.dll|                |             |PyEval_EvalCodeEx                 |    |
+|1E0F115D|python27.dll|                |             |PyEval_EvalCode                   |    |
+|1E0F1140|python27.dll|                |             |PyEval_EvalCode                   |    |
+|1E118130|python27.dll|                |             |PyRun_StringFlags                 |    |
+|1E1183C6|python27.dll|                |             |PyRun_String                      |    |
+|0047D4CB|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict       |5188|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict       |5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject               |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject               |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                       |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                       |5202|
+|00486176|Project1.exe|Unit1.pas       |TForm1       |Button1Click                      |87  |
+|7759DFA5|ntdll.dll   |                |             |RtlFreeHeap                       |    |
+|7759E6A3|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor       |    |
+|756A11E9|user32.dll  |                |             |PtInRect                          |    |
+|77592280|ntdll.dll   |                |             |RtlLeaveCriticalSection           |    |
+|75699679|user32.dll  |                |             |SendMessageW                      |    |
+|775C2870|ntdll.dll   |                |             |RtlFillMemoryUlong                |    |
+|756A7945|user32.dll  |                |             |CallWindowProcA                   |    |
+|756A792F|user32.dll  |                |             |CallWindowProcA                   |    |
+|77592280|ntdll.dll   |                |             |RtlLeaveCriticalSection           |    |
+|756A2ABC|user32.dll  |                |             |GetCapture                        |    |
+|756A2AAC|user32.dll  |                |             |GetCapture                        |    |
+|75697BC5|user32.dll  |                |             |DispatchMessageA                  |    |
+|75697BBB|user32.dll  |                |             |DispatchMessageA                  |    |
+|00486C47|Project1.exe|Project1.dpr    |             |                                  |20  |
+----------------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/11/2016 13:52:36
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/11/2016 13:52:46
+  Address: 0047DFA8
+  Module : Project1.exe
+  Type   : EPyAttributeError
+  Message: exceptions.AttributeError: 'numpy.ndarray' object has no attribute 'contents'.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 3734 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|0047DFA8|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5406|
+|0047DB74|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5365|
+|00480822|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6391|
+|004807C0|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047D4E2|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5190|
+|0047D3C8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047D3B8|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047D3A4|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047D5C8|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047D58C|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|004861BA|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |91  |
+|77AADFA5|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|77AAE6A3|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|768B11E9|user32.dll  |                |             |PtInRect                   |    |
+|77AA2280|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|768A9679|user32.dll  |                |             |SendMessageW               |    |
+|77AD2870|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|768B7945|user32.dll  |                |             |CallWindowProcA            |    |
+|768B792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77AA2280|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|768B2ABC|user32.dll  |                |             |GetCapture                 |    |
+|768B2AAC|user32.dll  |                |             |GetCapture                 |    |
+|768A7BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|768A7BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|00486D73|Project1.exe|Project1.dpr    |             |                           |20  |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/11/2016 13:55:14
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/11/2016 13:56:07
+  Address: 0047F2EA
+  Module : Project1.exe
+  Type   : EPyTypeError
+  Message: exceptions.TypeError: int() argument must be a string or a number, not 'NoneType'.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 3721 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|0047F2EA|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5414|
+|0047ED8C|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5365|
+|00481A3A|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6391|
+|004819D8|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047E6FA|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5190|
+|0047E5E0|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047E5D0|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047E5BC|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047E7E0|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047E7A4|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|004873E2|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |92  |
+|77AADFA5|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|77AAE6A3|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|768B11E9|user32.dll  |                |             |PtInRect                   |    |
+|77AA2280|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|768A9679|user32.dll  |                |             |SendMessageW               |    |
+|77AD2870|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|768B7945|user32.dll  |                |             |CallWindowProcA            |    |
+|768B792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77AA2280|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|768B2ABC|user32.dll  |                |             |GetCapture                 |    |
+|768B2AAC|user32.dll  |                |             |GetCapture                 |    |
+|768A7BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|768A7BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|0048804F|Project1.exe|Project1.dpr    |             |                           |20  |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/11/2016 13:55:14
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/11/2016 13:57:03
+  Address: 0047F17D
+  Module : Project1.exe
+  Type   : EPyNameError
+  Message: exceptions.NameError: name 'z' is not defined.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 3718 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|0047F17D|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5404|
+|0047ED8C|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5365|
+|00481A3A|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6391|
+|004819D8|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047E6FA|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5190|
+|0047E5E0|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047E5D0|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047E5BC|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047E7E0|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047E7A4|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|004873E2|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |92  |
+|77AADFA5|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|77AAE6A3|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|768B11E9|user32.dll  |                |             |PtInRect                   |    |
+|77AA2280|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|768A9679|user32.dll  |                |             |SendMessageW               |    |
+|77AD2870|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|768B7945|user32.dll  |                |             |CallWindowProcA            |    |
+|768B792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77AA2280|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|768B2ABC|user32.dll  |                |             |GetCapture                 |    |
+|768B2AAC|user32.dll  |                |             |GetCapture                 |    |
+|768A7BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|768A7BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|0048804F|Project1.exe|Project1.dpr    |             |                           |20  |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/11/2016 13:55:14
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/11/2016 13:57:39
+  Address: 0047F2EA
+  Module : Project1.exe
+  Type   : EPyTypeError
+  Message: exceptions.TypeError: int() argument must be a string or a number, not 'NoneType'.
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : Execute script
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 3719 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+---------------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class        |Procedure/Method           |Line|
+---------------------------------------------------------------------------------------
+|0047F2EA|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5414|
+|0047ED8C|Project1.exe|PythonEngine.pas|TPythonEngine|RaiseError                 |5365|
+|00481A3A|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6391|
+|004819D8|Project1.exe|PythonEngine.pas|TPythonEngine|CheckError                 |6379|
+|0047E6FA|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5190|
+|0047E5E0|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObjectWithDict|5163|
+|0047E5D0|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5156|
+|0047E5BC|Project1.exe|PythonEngine.pas|TPythonEngine|Run_CommandAsObject        |5155|
+|0047E7E0|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5203|
+|0047E7A4|Project1.exe|PythonEngine.pas|TPythonEngine|ExecStrings                |5202|
+|004873E2|Project1.exe|Unit1.pas       |TForm1       |Button1Click               |92  |
+|77AADFA5|ntdll.dll   |                |             |RtlFreeHeap                |    |
+|77AAE6A3|ntdll.dll   |                |             |RtlDeleteBoundaryDescriptor|    |
+|768B11E9|user32.dll  |                |             |PtInRect                   |    |
+|77AA2280|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|768A9679|user32.dll  |                |             |SendMessageW               |    |
+|77AD2870|ntdll.dll   |                |             |RtlFillMemoryUlong         |    |
+|768B7945|user32.dll  |                |             |CallWindowProcA            |    |
+|768B792F|user32.dll  |                |             |CallWindowProcA            |    |
+|77AA2280|ntdll.dll   |                |             |RtlLeaveCriticalSection    |    |
+|768B2ABC|user32.dll  |                |             |GetCapture                 |    |
+|768B2AAC|user32.dll  |                |             |GetCapture                 |    |
+|768A7BC5|user32.dll  |                |             |DispatchMessageA           |    |
+|768A7BBB|user32.dll  |                |             |DispatchMessageA           |    |
+|0048804F|Project1.exe|Project1.dpr    |             |                           |20  |
+---------------------------------------------------------------------------------------
+
+
+
+Application...
+  Start Date      : 10/11/2016 13:57:50
+  Name/Description: Project1.exe
+  Version Number  : 
+
+Exception...
+  Date   : 10/11/2016 13:58:26
+  Address: 00410403
+  Module : Project1.exe
+  Type   : EVariantTypeCastError
+  Message: Could not convert variant of type (String) into type (Double).
+
+Active Controls...
+  Form Class   : TAppBuilder
+  Form Text    : Delphi 7 - Project1 [Running]
+  Control Class: TButton
+  Control Text : pass to delphi
+
+Computer...
+  Name        : AAA-PC
+  Total Memory: 4096 Mb
+  Free Memory : 3720 Mb
+  Total Disk  : 51.78 Gb
+  Free Disk   : 42.07 Gb
+
+Operating System...
+  Type    : 
+  Build # : 7601
+  Language: 中文(简体，中国)
+
+--------------------------------------------------------------------------------
+|Address |Module      |Unit            |Class |Procedure/Method           |Line|
+--------------------------------------------------------------------------------
+|0048601E|Project1.exe|PythonEngine.pas|TPyVar|GetValueAsVariant          |9287|
+|0048607E|Project1.exe|PythonEngine.pas|TPyVar|GetValueAsVariant          |9292|
+|00487CF4|Project1.exe|Unit1.pas       |TForm1|btn3Click                  |273 |
+|77AADFA5|ntdll.dll   |                |      |RtlFreeHeap                |    |
+|77AAE6A3|ntdll.dll   |                |      |RtlDeleteBoundaryDescriptor|    |
+|768B11E9|user32.dll  |                |      |PtInRect                   |    |
+|77AA2280|ntdll.dll   |                |      |RtlLeaveCriticalSection    |    |
+|768A9679|user32.dll  |                |      |SendMessageW               |    |
+|77AD2870|ntdll.dll   |                |      |RtlFillMemoryUlong         |    |
+|768B7945|user32.dll  |                |      |CallWindowProcA            |    |
+|768B792F|user32.dll  |                |      |CallWindowProcA            |    |
+|77AA2280|ntdll.dll   |                |      |RtlLeaveCriticalSection    |    |
+|768B2ABC|user32.dll  |                |      |GetCapture                 |    |
+|768B2AAC|user32.dll  |                |      |GetCapture                 |    |
+|768A7BC5|user32.dll  |                |      |DispatchMessageA           |    |
+|768A7BBB|user32.dll  |                |      |DispatchMessageA           |    |
+|0048804F|Project1.exe|Project1.dpr    |      |                           |20  |
+--------------------------------------------------------------------------------
+
+
+
